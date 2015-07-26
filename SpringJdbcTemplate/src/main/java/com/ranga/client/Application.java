@@ -1,4 +1,4 @@
-package com.raga.client;
+package com.ranga.client;
 
 import java.util.List;
 

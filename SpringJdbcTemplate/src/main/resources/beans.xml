@@ -14,7 +14,7 @@
         <property name="password" value="root" />        
     </bean>
     
-    <bean id="myJdbcTemplate" class="com.raga.util.MyJdbcTemplate" >    	    	
+    <bean id="myJdbcTemplate" class="com.ranga.util.MyJdbcTemplate" >    	    	
     	<constructor-arg name="dataSource" ref="dataSource"></constructor-arg>
     </bean>
     
